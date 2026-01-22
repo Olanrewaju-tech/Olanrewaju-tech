@@ -1,7 +1,7 @@
 # Hi there, I'm Akeju Solomon 👋
 
   
-  ![Typing SVG][(https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Backend+Engineer+%7C+Mobile+Developer;Full-Stack+%7C+WordPress+Developer;Exploring+Cybersecurity+%F0%9F%94%90;Building+Secure+Solutions)](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+%7C+Mobile+Developer;Full-Stack+%7C+WordPress+Developer;Exploring+Cybersecurity+%F0%9F%94%90;Building+Secure+Solutions)
+  ![Typing SVG][(https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+%7C+Mobile+Developer;Full-Stack+%7C+WordPress+Developer;Exploring+Cybersecurity+%F0%9F%94%90;Building+Secure+Solutions)]
 
 
 ## 🚀 About Me
