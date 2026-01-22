@@ -1,18 +1,26 @@
-# Hi there, I'm Olanrewaju Akeju
+# Hi there, I'm Akeju Solomon 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+|+Mobile+Developer;Full-Stack+|+WordPress+Developer;Exploring+Cybersecurity;Building+Secure+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+|+Mobile+Developer;Full-Stack+|+WordPress+Developer;Exploring+Cybersecurity+🔐;Building+Secure+Solutions)
 
 ## 🚀 About Me
-💼 IT Support Professional transitioning into Full-Stack Development
-🔧 Backend specialist with .NET/C#, building robust and scalable APIs
-📱 Mobile app developer using React Native for cross-platform solutions
-🌐 Frontend engineer proficient in TypeScript & JavaScript
-🎨 WordPress developer crafting dynamic websites with PHP
-☁️ DevOps Engineer experienced with Docker, Kubernetes, Azure, AWS, CI/CD & GitHub Actions
-🔐 Currently diving into Cybersecurity and building security-focused applications
-🌍 Based in Lagos, Nigeria
-⚡ Fun fact: I'm working on a keylogger detection app!
 
+💼 **IT Support Professional** transitioning into **Full-Stack Development**
+
+🔧 Backend specialist with **.NET/C#**, building robust and scalable APIs
+
+📱 Mobile app developer using **React Native** for cross-platform solutions
+
+🌐 Frontend engineer proficient in **TypeScript & JavaScript**
+
+🎨 WordPress developer crafting dynamic websites with **PHP**
+
+☁️ **DevOps Engineer** experienced with **Docker, Kubernetes, Azure, AWS, CI/CD & GitHub Actions**
+
+🔐 Currently diving into **Cybersecurity** and building security-focused applications
+
+🌍 Based in **Lagos, Nigeria**
+
+⚡ Fun fact: I'm working on a keylogger detection app!
 
 ---
 
@@ -40,10 +48,19 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
