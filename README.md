@@ -1,17 +1,18 @@
-# Hi there, I'm Akeju Solomon 👋
+# Hi there, I'm Olanrewaju Akeju
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+|+Mobile+Developer;Full-Stack+|+WordPress+Developer;Exploring+Cybersecurity+🔐;Building+Secure+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+|+Mobile+Developer;Full-Stack+|+WordPress+Developer;Exploring+Cybersecurity;Building+Secure+Solutions)
 
 ## 🚀 About Me
-
-💼 **IT Support Professional** transitioning into **Full-Stack Development**  
-🔧 Backend specialist with **.NET/C#**, building robust and scalable APIs  
-📱 Mobile app developer using **React Native** for cross-platform solutions  
-🌐 Frontend engineer proficient in **TypeScript & JavaScript**  
-🎨 WordPress developer crafting dynamic websites with **PHP**  
-🔐 Currently diving into **Cybersecurity** and building security-focused applications  
-🌍 Based in **Lagos, Nigeria**  
+💼 IT Support Professional transitioning into Full-Stack Development
+🔧 Backend specialist with .NET/C#, building robust and scalable APIs
+📱 Mobile app developer using React Native for cross-platform solutions
+🌐 Frontend engineer proficient in TypeScript & JavaScript
+🎨 WordPress developer crafting dynamic websites with PHP
+☁️ DevOps Engineer experienced with Docker, Kubernetes, Azure, AWS, CI/CD & GitHub Actions
+🔐 Currently diving into Cybersecurity and building security-focused applications
+🌍 Based in Lagos, Nigeria
 ⚡ Fun fact: I'm working on a keylogger detection app!
+
 
 ---
 
