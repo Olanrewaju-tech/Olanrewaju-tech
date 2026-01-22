@@ -1,4 +1,4 @@
-# Hi there, I'm Akeju Solomon 👋
+# Hi there, I'm Olanrewaju Akeju 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+|+Mobile+Developer;Full-Stack+|+WordPress+Developer;Exploring+Cybersecurity;Building+Secure+Solutions)
 
