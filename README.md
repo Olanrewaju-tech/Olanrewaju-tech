@@ -1,8 +1,6 @@
 # Hi there, I'm Akeju Solomon 👋
 
-  
-  ![Typing SVG][(https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+%7C+Mobile+Developer;Full-Stack+%7C+WordPress+Developer;Exploring+Cybersecurity+%F0%9F%94%90;Building+Secure+Solutions)]
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Backend+Engineer+|+Mobile+Developer;Full-Stack+|+WordPress+Developer;Exploring+Cybersecurity+🔐;Building+Secure+Solutions)
 
 ## 🚀 About Me
 
@@ -111,7 +109,7 @@ public class AkejuSolomon
 
 ## 📫 Connect With Me
 
-<div align="">
+<div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akeju-olanrewaju-solomon/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/olanrewaju_tech)
